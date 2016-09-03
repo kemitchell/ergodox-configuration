@@ -137,8 +137,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "#:ledControl( 5, 0, 0 )",
-                    "label": "LED OFF"
+                    "key": "NUMLOCK",
+                    "label": "NMLK"
                 }
             }
         },

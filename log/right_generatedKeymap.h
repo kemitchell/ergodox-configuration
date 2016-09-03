@@ -183,7 +183,7 @@ Guide_RM( 33 ) = { 1, 15, KEY_LEFT_BRACKET, 0 };
 Guide_RM( 34 ) = { 1, 15, KEY_E, 0 };
 Guide_RM( 35 ) = { 1, 15, KEY_O, 0 };
 Guide_RM( 36 ) = { 1, 15, KEY_END, 0 };
-Guide_RM( 37 ) = { 1, 2, 5, 0, 0, 0, 0 };
+Guide_RM( 37 ) = { 1, 15, KEY_NUM_LOCK, 0 };
 Guide_RM( 38 ) = { 1, 15, KEY_W, 0 };
 Guide_RM( 39 ) = { 1, 15, KEY_PERIOD, 0 };
 Guide_RM( 40 ) = { 1, 15, KEY_P, 0 };
@@ -245,8 +245,7 @@ Guide_RM( 95 ) = { 1, 15, KEYPAD_7, 0 };
 Guide_RM( 96 ) = { 1, 9, 0 };
 Guide_RM( 97 ) = { 1, 15, KEYPAD_1, 0 };
 Guide_RM( 98 ) = { 1, 15, KEYPAD_2, 0 };
-Guide_RM( 99 ) = { 1, 15, KEY_NUM_LOCK, 0 };
-Guide_RM( 100 ) = { 1, 15, KEYPAD_SLASH, 0 };
+Guide_RM( 99 ) = { 1, 15, KEYPAD_SLASH, 0 };
 
 
 // -- Result Macro List
@@ -353,7 +352,6 @@ const ResultMacro ResultMacroList[] = {
 	Define_RM( 97 ),
 	Define_RM( 98 ),
 	Define_RM( 99 ),
-	Define_RM( 100 ),
 };
 
 
@@ -603,8 +601,8 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 111, 97 ),
 	Define_TM( 112, 96 ),
 	Define_TM( 113, 98 ),
-	Define_TM( 114, 99 ),
-	Define_TM( 115, 100 ),
+	Define_TM( 114, 37 ),
+	Define_TM( 115, 99 ),
 	Define_TM( 116, 93 ),
 };
 

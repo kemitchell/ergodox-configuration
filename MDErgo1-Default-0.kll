@@ -14,7 +14,7 @@ U"3" : U"3";
 U"2" : U"2";
 U"1" : U"1";
 U"EQUALS" : U"EQUALS";
-U"FUNCTION1" : ledControl( 5, 0, 0 );
+U"FUNCTION1" : U"NUMLOCK";
 U"T" : U"T";
 U"R" : U"R";
 U"E" : U"E";
