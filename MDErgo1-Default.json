@@ -18,8 +18,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCK2",
-                    "label": "LOCK-2"
+                    "key": "#:None",
+                    "label": "NONE"
                 },
                 "1": {
                     "key": "F11",
@@ -137,8 +137,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "NUMLOCK",
-                    "label": "NMLK"
+                    "key": "FUN2",
+                    "label": "\u01922"
                 }
             }
         },
@@ -464,6 +464,10 @@
                 "0": {
                     "key": "BACKSPACE",
                     "label": "BKSP"
+                },
+                "1": {
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             }
         },
@@ -475,8 +479,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "#:'>'",
+                    "label": ">"
                 }
             }
         },
@@ -488,8 +492,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "#:'<'",
+                    "label": "<"
                 }
             }
         },
@@ -501,8 +505,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "RBRACE",
+                    "label": "]"
                 }
             }
         },
@@ -514,8 +518,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKTICK",
-                    "label": "`"
+                    "key": "LBRACE",
+                    "label": "["
                 }
             }
         },
@@ -527,8 +531,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "BACKTICK",
+                    "label": "`"
                 }
             }
         },
@@ -540,8 +544,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LCK2",
-                    "label": "LOCK-2"
+                    "key": "#:None",
+                    "label": "NONE"
                 },
                 "1": {
                     "key": "F12",
@@ -675,8 +679,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LBRACE",
-                    "label": "["
+                    "key": "FUN2",
+                    "label": "\u01922"
                 }
             }
         },
@@ -785,8 +789,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RBRACE",
-                    "label": "]"
+                    "key": "BACKSLASH",
+                    "label": "\\"
                 }
             }
         },
@@ -1097,8 +1101,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LEFT",
-                    "label": "\u2190"
+                    "key": "#:'('",
+                    "label": "("
                 }
             }
         },
@@ -1110,8 +1114,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "DOWN",
-                    "label": "\u2193"
+                    "key": "#:')'",
+                    "label": ")"
                 }
             }
         },
@@ -1123,8 +1127,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "UP",
-                    "label": "\u2191"
+                    "key": "#:'{'",
+                    "label": "{"
                 },
                 "2": {
                     "key": "P.",
@@ -1140,8 +1144,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "#:'}'",
+                    "label": "}"
                 },
                 "2": {
                     "key": "PENTER",
@@ -1157,8 +1161,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RGUI",
-                    "label": "RGUI"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             }
         }
